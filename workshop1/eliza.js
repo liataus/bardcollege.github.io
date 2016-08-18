@@ -130,6 +130,11 @@ var rules = {
     "Why not?",
     "You are being a bit negative.",
     "Are you saying 'No' just to be negative?",
+     ],
+  "~*x hurt ~*y": [
+    "I'm sorry!",
+    "That must have hurt.",
+    "How did you hurt yourself?",
   ],
   "~*x I was ~*y": [
     "Were you really?",
