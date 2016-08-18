@@ -33,6 +33,9 @@ var rules = {
   ],
    "~*x I am hurt. ~*y": [
     "How did you hurt yourself?"
+ ],
+   "~*x I was playing ~*y": [
+    "Where did you injure yourself?"
   ],
   "~*x computer ~*y": [
     "Do computers worry you?",
